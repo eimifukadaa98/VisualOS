@@ -6,3 +6,7 @@ link to download .iso file = https://mega.nz/file/niw3RSKA#n6rIlhJOw2cwqJLSIj7zI
 login using = root
 
 login to desktop mode = gnome-shell --wayland
+
+still maintenance
+
+custom desktop coming soon!!
